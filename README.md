@@ -27,6 +27,7 @@ Mastered technologies and topics
 
 ## GitHub Trophies
  <img src=" https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=aura" alt="Troféus do GitHub"/>
+ https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura
  
 
 
