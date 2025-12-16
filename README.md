@@ -26,7 +26,7 @@ Mastered technologies and topics
 </p>
 
 ## GitHub Trophies
- [![trophy](https://github-profile-trophy.vercel.app/?username=devmatheussousa)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devmatheussousa)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 
