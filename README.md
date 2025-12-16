@@ -24,15 +24,6 @@ Mastered technologies and topics
   <img width="46" height="46" src="https://github.com/user-attachments/assets/1b6a0710-1dc2-4c77-8213-94064e31e983" />
   <img width="46" height="46" src="https://github.com/user-attachments/assets/b57ca050-fddf-47d6-bc3a-d2a777bccf43" />
 </p>
-
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=devmatheussousa)](https://github.com/ryo-ma/github-profile-trophy)
- 
-
-
-
-
-
 <picture>
   
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake-dark.svg">
