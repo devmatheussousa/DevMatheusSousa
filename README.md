@@ -27,6 +27,7 @@ Mastered technologies and topics
 
 ## GitHub Trophies
  <img src="[https://github-profile-trophy.vercel.app/?devmatheussousa=ryo-ma&theme=aura](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)" alt="Troféus do GitHub"/>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
  
 
