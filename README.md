@@ -26,7 +26,7 @@ Mastered technologies and topics
 </p>
 
 ## GitHub Trophies
- <img src="[https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)" alt="Troféus do GitHub"/>
+ <img src="[https://github-profile-trophy.vercel.app/?devmatheussousa=ryo-ma&theme=aura](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)" alt="Troféus do GitHub"/>
 
  
 
